@@ -1,4 +1,4 @@
-name: Executando cenários Jest - UniSatc
+name: Testes Unitários - UniSatc
 
 on:
   push:
